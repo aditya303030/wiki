@@ -1,0 +1,17 @@
+requests
+requests-cache
+mwparserfromhell
+psycopg2-binary
+SQLAlchemy
+pandas
+numpy
+networkx
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+tqdm
+python-dotenv
+pyyaml
+pytest
